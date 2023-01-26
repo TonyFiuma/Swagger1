@@ -1,6 +1,6 @@
 # Swagger1
 
-Set of exercise with Spring boot completed in developer school
+Set of exercises completed with Spring in developer school
 
 # Exercise - Spring Boot - Swagger 1
 * write a Spring Boot application that uses the following dependencies:
